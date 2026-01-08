@@ -15,9 +15,6 @@ This project involves the development of a mini-loan application where authentic
 - Clean Folder Structure.
   
 
-## DEMO Video ▶️
-
-Video Link : https://drive.google.com/file/d/1NenTMsxgBs9zWVANIzoIC14lMPakzNux/view?usp=sharing
 
 ## Tech Stack Used
 
