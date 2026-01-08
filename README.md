@@ -1,4 +1,4 @@
-
+<img width="1907" height="867" alt="Screenshot 2026-01-08 194619" src="https://github.com/user-attachments/assets/7a2fb18e-6019-4e74-a057-a35d1dac6b94" />
 # Mini-Loan App
 Welcome to the Mini-Loan App project! 😊
 
@@ -35,11 +35,15 @@ This project involves the development of a mini-loan application where authentic
 
 ## Screenshots
 
+<img width="1907" height="867" alt="Screenshot 2026-01-08 194619" src="https://github.com/user-attachments/assets/e3a35620-0a92-48a9-9079-cd946a75f7cd" />
+<img width="1917" height="900" alt="Screenshot 2026-01-08 194552" src="https://github.com/user-attachments/assets/7ccac71b-d42a-494c-9c1e-950b0706f6b4" />
+<img width="1919" height="884" alt="Screenshot 2026-01-08 194540" src="https://github.com/user-attachments/assets/a114378e-b403-4977-b46c-9c91a1ccbe18" />
+ ... and many more Watch the Demo Video given above ⬆️ to see all the features.
 
-... and many more Watch the Demo Video given above ⬆️ to see all the features.
 
 
-## How to Run the code:
+
+## How to Run the 
 
 - Should have Nodejs app installed in your system.
 - Should have the MongonDB Atlas/Compass or MONGO_URL for database storage.
