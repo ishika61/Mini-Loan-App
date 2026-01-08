@@ -1,4 +1,4 @@
-<img width="1907" height="867" alt="Screenshot 2026-01-08 194619" src="https://github.com/user-attachments/assets/7a2fb18e-6019-4e74-a057-a35d1dac6b94" />
+
 # Mini-Loan App
 Welcome to the Mini-Loan App project! 😊
 
