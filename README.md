@@ -30,12 +30,12 @@ This project involves the development of a mini-loan application where authentic
 - **server** :  Contains all Backend Code.
 - **README.md**: README.md, including information for reviewers to run and use the app.
 
+## 🎥 Demo Video
+👉 [Watch Project Demo](https://your-video-link-here)
 
 ## Screenshots
 
-![image](https://github.com/Raj-Gurjar/Loan-App-Assignment-Techdome/assets/81844601/1a26ca4e-2295-4d9a-a198-18dbe335831f)
-![image](https://github.com/Raj-Gurjar/Loan-App-Assignment-Techdome/assets/81844601/24e10d52-5438-4d5d-9806-de4d5ddbd43c)
-![image](https://github.com/Raj-Gurjar/Loan-App-Assignment-Techdome/assets/81844601/7d3cbe0f-8585-43c0-8787-97f78e85cff5)
+
 ... and many more Watch the Demo Video given above ⬆️ to see all the features.
 
 
