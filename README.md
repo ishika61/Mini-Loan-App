@@ -31,7 +31,7 @@ This project involves the development of a mini-loan application where authentic
 - **README.md**: README.md, including information for reviewers to run and use the app.
 
 ## 🎥 Demo Video
-👉 [Watch Project Demo](https://drive.google.com/file/d/1smCMhEO6yQZq42CDGchsqwESuwCSZmiA/view?usp=drive_link)
+👉 [Watch Project Demo](https://drive.google.com/file/d/1G9KbRgpbTtM1yrOUc8jYWwTQwIUsfv1B/view?usp=drive_link)
 
 ## Screenshots
 
